@@ -300,8 +300,7 @@
 }
 
 .footer__social-list {
-
-
+    display: flex;
 }
 
 .footer__social-icon {
